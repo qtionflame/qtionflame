@@ -2,6 +2,10 @@
 
 
 
+![QtionFlame's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qtionflame&layout=compact)
+
+
+
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=qtionflame)
 
 
