@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css)
+
+
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=qtionflame)
 
 
