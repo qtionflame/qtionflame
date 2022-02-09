@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [QtionFlame]((https://github.com/qtionflame/))! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css&theme=react&bg_color=011C32)
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=qtionflame)
 
@@ -15,6 +14,9 @@
 **qtionflame/qtionflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css&theme=react&bg_color=011C32)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&langs_count=8&layout=compact&theme=react&hide_border=true&hide=html,css&bg_color=011C32)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
