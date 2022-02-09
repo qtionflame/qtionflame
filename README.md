@@ -1,6 +1,8 @@
 ### Hi there, I'm [QtionFlame](https://github.com/qtionflame/)! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css&theme=react&bg_color=011C32)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qtionflame&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=011C32)](https://github.com/qtionflame)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&theme=react&bg_color=011C32&hide=html,css)](https://github.com/qtionflame)
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=qtionflame)
 
