@@ -1,4 +1,4 @@
-### Hi there, I'm [QtionFlame]((https://github.com/qtionflame/))! 👋
+### Hi there, I'm [QtionFlame](https://github.com/qtionflame/)! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtionflame&layout=compact&hide_border=true&hide=html,css&theme=react&bg_color=011C32)
 
